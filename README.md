@@ -1,257 +1,216 @@
 <h1 align="center">Hi 👋, I'm Amit Saini</h1>
 
 <h3 align="center">
-Senior Full Stack Engineer | Backend & System Architecture | SaaS Platform Developer
+Senior Full Stack Engineer • Backend Architecture • Distributed Systems • SaaS Platform Development
 </h3>
 
 <p align="center">
-Building scalable hospitality technology, distributed backend systems, and enterprise SaaS platforms.
+Building scalable hospitality platforms, enterprise SaaS products, payment infrastructure, and real-time distributed systems.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/amit-co">
+<img src="https://img.shields.io/github/followers/amit-co?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/amit-co">
+<img src="https://img.shields.io/github/stars/amit-co?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/amitsaini12318">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-I'm a Full Stack Software Engineer focused on designing and building large-scale hospitality and restaurant management platforms.
+I'm a **Senior Full Stack Engineer** specializing in designing scalable backend systems, enterprise SaaS products, and distributed architectures.
 
-Currently, I'm leading the development of **ReserveOcean**, an enterprise-grade hospitality ecosystem consisting of multiple products including:
+Currently leading development of **ReserveOcean**, a modern hospitality ecosystem powering hotels, restaurants, clubs, spas, and guest experiences.
 
-- Restaurant Management
-- Hotel Operations
-- Reservation Engine
-- Waitlist Management
-- Guest Journey Platform
-- Spa & Wellness Management
-- Club & Membership Services
-- QR Ordering
+My primary interests include:
+
+- Large-scale Backend Engineering
+- System Architecture
 - Payment Infrastructure
-- Mobile Applications
-- Client Websites
-- Internal Admin Systems
-
-I enjoy solving large architectural problems involving distributed systems, real-time communication, scalable backend design, and multi-tenant SaaS platforms.
-
----
-
-# 🚀 What I Work On
-
-### Backend Engineering
-
-- Node.js APIs
-- Express.js
-- TypeScript
-- PostgreSQL
-- Prisma ORM
-- Redis
-- JWT Authentication
-- OAuth
-- Role Based Access Control (RBAC)
-- Event-driven architecture
-- Queue processing
-- Background workers
-- REST APIs
-- WebSocket services
+- Hospitality Technology
+- Distributed Systems
+- Multi-Tenant SaaS
+- AI-assisted Software Engineering
 
 ---
 
-### Frontend Development
+# 🌊 ReserveOcean Platform
 
-- React
-- React Native
-- Redux Toolkit
-- TypeScript
-- Mobile-first applications
-- Cross-platform development
+ReserveOcean is a complete hospitality ecosystem currently consisting of:
+
+- 🍽 Restaurant Management
+- 🏨 Hotel Operations
+- 📅 Reservation Management
+- ⏳ Smart Waitlist
+- 👥 Guest Journey Platform
+- 🛎 Concierge Services
+- 💆 Spa & Wellness
+- 🍸 Club Management
+- 📱 QR Ordering
+- 💳 Payment Infrastructure (PayKit)
+- 📊 Internal Operations Platform
+- 📱 Mobile Applications
+- 🌐 Client Websites
 
 ---
 
-### Cloud & DevOps
+# 🏗 Engineering Focus
 
-- DigitalOcean
-- AWS
+## Backend
+
+- High-performance REST APIs
+- Distributed Services
+- Event-driven Architecture
+- Background Workers
+- Authentication & Authorization
+- Real-time Systems
+- Payment Infrastructure
+
+## Frontend
+
+- Enterprise React Applications
+- Cross-platform React Native Apps
+- Responsive Client Portals
+- Internal Operations Dashboards
+
+## Infrastructure
+
+- Cloud-native Deployments
 - Docker
 - Nginx
-- Ubuntu Linux
+- DigitalOcean
+- AWS
 - GitHub Actions
-- CI/CD pipelines
-- systemd services
-- Server monitoring
 - Better Stack
-- Vector
-- Structured logging
+- Vector Observability
+- Production Monitoring
 
 ---
 
-### Real-Time Systems
+# 💳 Current Major Projects
 
-- Socket.IO
-- Push Notifications
-- Firebase Cloud Messaging
-- Notifee
-- Live reservations
-- Live order tracking
-- Real-time dashboards
+### 🌊 ReserveOcean
 
----
+Enterprise Hospitality Platform
 
-### Hospitality Domain
+### 💳 PayKit
 
-Experienced in building complete hospitality ecosystems including:
+Embedded Payment Operating System
 
-- Restaurant Management
-- Hotel PMS Integrations
-- Reservation Management
-- Waitlist Management
-- Guest Lists
-- Guest Journey Tracking
-- Table Management
-- Spa & Wellness Booking
-- Club Guest Management
-- QR Ordering
-- Staff Operations
-- Customer Notifications
-
----
-
-### Payment Systems
-
-Currently designing an embedded payment platform inspired by modern payment infrastructure.
-
-Experience includes:
-
-- Payment Gateway Integrations
 - Subscription Billing
-- Invoice Generation
+- Multi Gateway Support
 - Payment Orchestration
-- Multi-provider Architecture
-- Merchant Platforms
+- Invoice Engine
+- Merchant Platform
+- Developer SDKs
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+### Languages
 
-- JavaScript (ES6+)
-- TypeScript
-- SQL
+JavaScript • TypeScript • SQL
 
-## Backend
+### Backend
 
-- Node.js
-- Express.js
-- REST APIs
-- WebSockets
-- Socket.IO
-- Prisma ORM
-- Redis
+Node.js • Express • Prisma • PostgreSQL • Redis • Socket.IO
 
-## Frontend
+### Frontend
 
-- React
-- React Native
-- Redux Toolkit
+React • React Native • Redux Toolkit
 
-## Database
+### Infrastructure
 
-- PostgreSQL
-- MySQL
+Docker • Nginx • AWS • DigitalOcean • Linux
 
-## Infrastructure
+### DevOps
 
-- Docker
-- Nginx
-- Ubuntu Linux
-- DigitalOcean
-- AWS
+GitHub Actions • systemd • Better Stack • Vector
 
-## DevOps
+### Architecture
 
-- GitHub Actions
-- systemd
-- Better Stack
-- Vector
-
-## Notifications
-
-- Firebase Cloud Messaging
-- Notifee
-- Email
-- SMS
-- WhatsApp
-
-## Architecture
-
-- Multi-Tenant SaaS
-- Clean Architecture
-- Modular Monolith
-- Event-Driven Systems
-- RBAC
-- Distributed Services
+Distributed Systems • Event-Driven • Multi-Tenant SaaS • RBAC • Clean Architecture
 
 ---
 
-# 📌 Current Focus
+# 🎯 Current Focus
 
-🔹 Enterprise Hospitality Platform
-
-🔹 Payment Infrastructure (PayKit)
-
-🔹 Embedded Developer Tools
-
-🔹 Scalable Backend Architecture
-
-🔹 Distributed Systems
-
-🔹 Real-time Applications
-
-🔹 AI-assisted Software Development
+- Enterprise Hospitality Software
+- Embedded Payment Infrastructure
+- AI-assisted Development
+- Distributed Backend Systems
+- Cloud-native Architecture
+- Developer Tooling
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark"/>
+<img src="https://streak-stats.demolab.com?user=amit-co&theme=github-dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amit-co&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amit-co&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amit-co&theme=github_dark"/>
 
 </p>
 
 ---
 
-# 🏆 Highlights
+# 📊 Contribution Graph
 
-- 🚀 Building ReserveOcean Hospitality Platform
-- ⚙️ Designing scalable backend architectures
-- 📱 Developing cross-platform mobile applications
-- 🔔 Real-time notification systems
-- 💳 Embedded payment infrastructure
-- ☁️ Cloud-native deployments
-- 📊 Production monitoring & observability
-- 🔐 Enterprise security & RBAC
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-co&theme=github-dark&hide_border=true"/>
+
+</p>
+
+# ⚡ Engineering Interests
+
+- System Design
+- Distributed Computing
+- Payment Systems
+- Hospitality Technology
+- High Availability
+- Scalability
+- Observability
+- Performance Optimization
+- AI-assisted Engineering
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Connect
 
-<p>
-
-<a href="https://linkedin.com/in/amitsaini12318">
-LinkedIn
-</a>
-
-•
+<p align="center">
 
 <a href="mailto:amit.saini@reserveocean.com">
-Email
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/amitsaini12318">
+<img src="https://img.shields.io/badge/LinkedIn-Amit%20Saini-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -260,6 +219,6 @@ Email
 
 <p align="center">
 
-"Great software isn't just about writing code—it's about building systems that scale, evolve, and solve real business problems."
+> "Building software that scales is about solving business problems with thoughtful architecture, not just writing code."
 
 </p>
