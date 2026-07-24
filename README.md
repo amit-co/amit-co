@@ -187,6 +187,14 @@ Distributed Systems • Event-Driven • Multi-Tenant SaaS • RBAC • Clean Ar
 
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/amit-co/amit-co/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
 # ⚡ Engineering Interests
 
 - System Design
